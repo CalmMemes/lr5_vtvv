@@ -1,0 +1,15 @@
+C:\Users\romch\source\repos\lr5_vtvv\bin\Debug\net6.0\lr5_vtvv.exe
+C:\Users\romch\source\repos\lr5_vtvv\bin\Debug\net6.0\lr5_vtvv.deps.json
+C:\Users\romch\source\repos\lr5_vtvv\bin\Debug\net6.0\lr5_vtvv.runtimeconfig.json
+C:\Users\romch\source\repos\lr5_vtvv\bin\Debug\net6.0\lr5_vtvv.dll
+C:\Users\romch\source\repos\lr5_vtvv\bin\Debug\net6.0\lr5_vtvv.pdb
+C:\Users\romch\source\repos\lr5_vtvv\obj\Debug\net6.0\lr5_vtvv.csproj.AssemblyReference.cache
+C:\Users\romch\source\repos\lr5_vtvv\obj\Debug\net6.0\lr5_vtvv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romch\source\repos\lr5_vtvv\obj\Debug\net6.0\lr5_vtvv.AssemblyInfoInputs.cache
+C:\Users\romch\source\repos\lr5_vtvv\obj\Debug\net6.0\lr5_vtvv.AssemblyInfo.cs
+C:\Users\romch\source\repos\lr5_vtvv\obj\Debug\net6.0\lr5_vtvv.csproj.CoreCompileInputs.cache
+C:\Users\romch\source\repos\lr5_vtvv\obj\Debug\net6.0\lr5_vtvv.dll
+C:\Users\romch\source\repos\lr5_vtvv\obj\Debug\net6.0\refint\lr5_vtvv.dll
+C:\Users\romch\source\repos\lr5_vtvv\obj\Debug\net6.0\lr5_vtvv.pdb
+C:\Users\romch\source\repos\lr5_vtvv\obj\Debug\net6.0\lr5_vtvv.genruntimeconfig.cache
+C:\Users\romch\source\repos\lr5_vtvv\obj\Debug\net6.0\ref\lr5_vtvv.dll
